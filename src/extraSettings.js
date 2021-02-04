@@ -38,7 +38,7 @@ let clickChangeFruit = false;
 let adLink = 'https://hayashidamegumi.github.io/reason';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = 'REASON推理社';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
